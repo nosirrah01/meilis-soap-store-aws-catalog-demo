@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Avocado Yin-Yang Facial Soap Bar",
+    "imageSrc": "images/products/avocado-yin-yang-facial-soap.jpg",
+    "imageAlt": "Avocado Yin-Yang Facial Soap Bar",
+    "description": "Natural and luxurious facial soap made with Fresh Avocado Purée, Whole Greek Yogurt, French Green Clay, and Activated Charcoal. Custom blend of Olive Oil, Avocado Oil, Babassu Oil, Hemp Seed Oil, Illipe Butter, and Mango Butter. Lightly scented with Tea Tree and Lavender essential oils. Approximately 4oz.",
+    "priceValue": "8.00",
+    "priceDisplay": "$8.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/avocado-yin-yang-luxury-facial-soap-bar"
+  },
+  {
+    "name": "Basic B*tch Soap",
+    "imageSrc": "images/products/basic-b-tch-soap.jpg",
+    "imageAlt": "Basic B*tch Soap bar",
+    "description": "A basic bar of soap that is all natural, fragrance-free and palm-free. Made from saponified Grade A Olive Oil, Coconut Oil, Tallow, Rice Bran Oil and Castor Oil with Tussah Silk. Creamy and moisturizing with a natural soap smell. Approximately 5oz.",
+    "priceValue": "6.50",
+    "priceDisplay": "$6.50",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/basic-b-tch-soap"
+  },
+  {
+    "name": "Bee My Honey Honeycomb Soap",
+    "imageSrc": "images/products/bee-my-honey-honeycomb-soap.jpg",
+    "imageAlt": "Bee My Honey Honeycomb Soap bar",
+    "description": "Made with loads of Raw Honey and Bee Pollen Powder, Grade A Olive Oil, Virgin Coconut Oil, Sweet Almond Oil, Rice Bran Oil, and Castor Oil with Tussah Silk. A Soaping Owl best seller! Smells fabulous like rose petals, geranium, velvety violets, sweet honey nectar, and orchard fruits. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/bee-my-honey-honeycomb-soap"
+  },
+  {
+    "name": "Black Raspberry Vanilla Soap",
+    "imageSrc": "images/products/black-raspberry-vanilla-soap.png",
+    "imageAlt": "Black Raspberry Vanilla Soap bar",
+    "description": "Made with fresh goat milk, Virgin Coconut Oil, Grade A Olive Oil, Raw Cocoa Butter, Raw Shea Butter, Sunflower Seed Oil, and Castor Oil with Tussah Silk. Piped top adorned with little black raspberries. Smells like fresh vine-ripened raspberries, bergamot, pear, plum wine, vanilla orchid, and cashmere musk. Hefty 5oz bar.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/black-raspberry-vanilla-soap"
+  },
+  {
+    "name": "Blueberry + Thyme Soap",
+    "imageSrc": "images/products/blueberry-thyme-soap.jpg",
+    "imageAlt": "Blueberry + Thyme Soap bar",
+    "description": "Made from Whole Greek Yogurt and saponified Grade A Olive Oil, Raspberry Seed Oil, Coconut Oil, Shea Butter, and Castor Oil with Tussah Silk. Scented with a blend of ripe blueberries, bergamot, lemon, Spanish rosemary, English thyme, vanilla, berry vines, and musk. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/blueberry-thyme-soap"
+  },
+  {
+    "name": "Breakfast Bar Soap",
+    "imageSrc": "images/products/breakfast-bar-soap.jpg",
+    "imageAlt": "Breakfast Bar Soap bar",
+    "description": "One of the best sellers! Made with saponified Avocado Oil, Virgin Coconut Oil, Grade A Olive Oil, and Castor Oil. Special ingredients include cage-free Eggs, fresh Goats Milk, Raw Honey, and Colloidal Oatmeal for a wonderfully creamy and luxurious soap with fluffy bubbles. Scented with Oatmeal Milk & Honey—sweet and toasty! Over 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/breakfast-bar"
+  },
+  {
+    "name": "Chocolate Oatmeal Stout Soap",
+    "imageSrc": "images/products/chocolate-oatmeal-stout-soap.png",
+    "imageAlt": "Chocolate Oatmeal Stout Soap bar",
+    "description": "Palm-free soap made with Samuel Smith's Organic Chocolate Stout, Coffee Butter, Cocoa Butter, and premium oils. Features beneficial activated charcoal and colloidal oatmeal. Full-bodied beer fragrance blended with Creamy Oatmeal, Orange Peel, Butterscotch, and Vanilla. Approximately 5.5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/chocolate-oatmeal-stout-soap"
+  },
+  {
+    "name": "Color Me Lilac Soap",
+    "imageSrc": "images/products/color-me-lilac-soap.jpg",
+    "imageAlt": "Color Me Lilac Soap bar",
+    "description": "Made with Fresh Goat's Milk, Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, Cocoa Butter, and premium oils with Tussah Silk. Smells like sweet fresh lilacs in bloom with gorgeous purple, black, and white zebra stripes—eye-popping and beautiful! Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/color-me-lilac-soap"
+  },
+  {
+    "name": "Dewberry Soap",
+    "imageSrc": "images/products/dewberry-soap.jpg",
+    "imageAlt": "Dewberry Soap bar",
+    "description": "Made with Virgin Coconut Oil, Grade A Olive Oil, Cocoa Butter, and Shea Butter with Tussah Silk. Scented with a delicate blend of dewberry nectar, bright cassis, Valencia orange, yuzu, blackberry, black plum, vanilla sugar, and musk. Thick bubbly lather. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/dewberry-soap"
+  },
+  {
+    "name": "Espresso Soap",
+    "imageSrc": "images/products/espresso-soap.jpg",
+    "imageAlt": "Espresso Soap bar",
+    "description": "Luxurious soap made with Fresh Triple-brewed Espresso Coffee, Heavy Cream, Coffee Butter, and premium oils with Tussah Silk. Smells like a good cup of Joe with notes of bitter-sweet chocolate, coconut, honey, caramel, roasted coffee bean, and burnt sugar. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/copy-of-espresso-soap"
+  },
+  {
+    "name": "Go Bananas Soap",
+    "imageSrc": "images/products/go-bananas-soap.png",
+    "imageAlt": "Go Bananas Soap bar",
+    "description": "Made with fresh banana puree, colloidal oatmeal, Virgin Coconut Oil, Grade A Olive Oil, Cocoa Butter, and premium oils with Tussah Silk. Smells like creamy honey with hints of citrus and floral on top of vanilla musk—a perfect warm combination. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/go-bananas-soap"
+  },
+  {
+    "name": "Groovy Lemonade Soap",
+    "imageSrc": "images/products/groovy-lemonade-soap.png",
+    "imageAlt": "Groovy Lemonade Soap bar",
+    "description": "Made with Virgin Coconut Oil, Grade A Olive Oil, Rice Bran Oil, Sunflower Seed Oil, and Castor Oil with Tussah Silk. Fun and uniquely colorful soap scented with a mouth-watering combination of mandarin, verbena, orange, fresh pumpkin, bergamot, Granny Smith apple, vanilla, neroli, and amber. Smells amazing! Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/groovy-lemonade-soap"
+  },
+  {
+    "name": "Guava Lava Soap",
+    "imageSrc": "images/products/guava-lava-soap.jpg",
+    "imageAlt": "Guava Lava Soap bar",
+    "description": "Made with Virgin Coconut Oil, Grade A Olive Oil, Cocoa Butter, and Shea Butter with Tussah Silk. Scented with a combination of guava, citrus, tropical fruits, and warm Mediterranean fig. Features a luscious and moisturizing lather. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/guava-lava-soap"
+  },
+  {
+    "name": "Honey Mint Owl Lips",
+    "imageSrc": "images/products/honey-mint-owl-lips.jpg",
+    "imageAlt": "Honey Mint Owl Lips lip balm",
+    "description": "Moisturizes and soothes even the driest lips, making them feel smooth and well-conditioned. Made with Castor Oil, Olive Oil, Beeswax, Carnauba Wax, Soybean Oil, Candelilla Wax, Honey, Triple-distilled Peppermint Essential Oil, and Cosmetic Grade Mica. Limited time sale: Use coupon code \"OwlLips\" when you buy 3 lip balms, get the 4th FREE!",
+    "priceValue": "3.50",
+    "priceDisplay": "$3.50",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/honey-mint-owl-lips"
+  },
+  {
+    "name": "Hoppy Suds Soap",
+    "imageSrc": "images/products/hoppy-suds-soap.jpg",
+    "imageAlt": "Hoppy Suds Soap bar",
+    "description": "Made with a local IPA beer loaded with skin-moisturizing hops, Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, Cocoa Butter, and premium oils with Tussah Silk. Scented with a bubbly blend of honey, orange, berry, plum, and light jasmine—perfect for both men and women. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/hoppy-suds-soap"
+  },
+  {
+    "name": "Junkyard Soap",
+    "imageSrc": "images/products/junkyard-soap.jpg",
+    "imageAlt": "Junkyard Soap bar",
+    "description": "Made with whole Greek yogurt, Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, Rice Bran Oil, and Castor Oil with Tussah Silk. Steampunk-inspired with fresh citrus top notes and warm, exotic finish of pine, clove, honey, and vanilla reminiscent of an amber ale. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/junkyard-soap"
+  },
+  {
+    "name": "Kris Kringled Soap",
+    "imageSrc": "images/products/kris-kringled-soap.jpg",
+    "imageAlt": "Kris Kringled Soap bar",
+    "description": "Made from Goat Milk and saponified Grade A Olive Oil, Coconut Oil, Canola Oil, Cocoa Butter, and Castor Oil with Tussah Silk. Wonderfully festive soap scented with a blend of Cranberries and spices with zing and kick. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/kris-kringled-soap"
+  },
+  {
+    "name": "Lazy Sunday Soap",
+    "imageSrc": "images/products/lazy-sunday-soap.jpg",
+    "imageAlt": "Lazy Sunday Soap bar",
+    "description": "Made with Whole Greek Yogurt, Oatstraw Powder, Calendula-infused Olive Oil, Virgin Coconut Oil, Sunflower Seed Oil, Cocoa Butter, and Mango Butter with Tussah Silk. Gorgeous yellow part colored with annatto-infused oil. Scented with green tea, green citrus, lavender, jasmine, violet, ginger, rose, musk, and sandalwood. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/lazy-sunday-soap"
+  },
+  {
+    "name": "Lemon Verbena Soap",
+    "imageSrc": "images/products/lemon-verbena-soap.jpg",
+    "imageAlt": "Lemon Verbena Soap bar",
+    "description": "Made with Goats Milk, saponified Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, Kokum Butter, Sunflower Oil, and Castor Oil with Tussah Silk. Scented with complex blend of Italian Bergamot, Lemon Verbena, sultry Primrose and Violet, with Amber, White Musk, and just a little Peppermint. Perfect pick-me-up! Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/lemon-verbena-soap"
+  },
+  {
+    "name": "Lychee Cha Soap",
+    "imageSrc": "images/products/lychee-cha-soap.jpg",
+    "imageAlt": "Lychee Cha Soap bar",
+    "description": "Made with creamy coconut milk, and saponified Virgin Coconut Oil, Grade A Olive Oil, Rice Bran Oil, Hemp Seed Oil, Cocoa Butter, and Castor Oil with Tussah Silk. Creamy and highly skin conditioning. Gender neutral scent with intriguing exotic fruity notes mixed with delicate red tea fragrance. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/lychee-cha-soap"
+  },
+  {
+    "name": "Maritime Men Spa Soap Bar",
+    "imageSrc": "images/products/maritime-men-spa-soap-bar.jpg",
+    "imageAlt": "Maritime Men Spa Soap Bar",
+    "description": "Sea Salt Brine Soap made with loads of beneficial sea salt, Virgin Coconut Oil, Grade A Olive Oil, Cocoa Butter, Sunflower Seed Oil, Aloe Vera Gel, and Raw Honey. Sea salt helps draw impurities and is full of beneficial minerals. Scented with classic Old Spice fragrance—a true manly man scent! Approximately 5.5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/maritime-men-spa-soap-bar"
+  },
+  {
+    "name": "Ol' Christmas Tree Soap",
+    "imageSrc": "images/products/ol-christmas-tree-soap.png",
+    "imageAlt": "Ol' Christmas Tree Soap bar",
+    "description": "Gorgeous seasonal soap topped with a little Christmas Tree made with Virgin Coconut Oil, Grade A Olive Oil, and Tussah Silk. Scented with notes of bergamot, geranium, patchouli, and tonka beans—smells like outdoors on a winter day. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/ol-christmas-tree-soap"
+  },
+  {
+    "name": "Oopsie Daisy Soap",
+    "imageSrc": "images/products/oopsie-daisy-soap.jpg",
+    "imageAlt": "Oopsie Daisy Soap bar",
+    "description": "Made with Illipe Butter, Raw Shea Butter, Grade A Olive Oil, Virgin Coconut Oil, Rice Bran Oil, Castor Oil, and Tussah Silk. Cute white, pink, and yellow daisies embedded in a beautiful deep indigo blue background with yellow swirl on top. Scented with floral and fruity fragrance inspired by Marc Jacobs Daisy. Approximately 5.5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/oopsie-daisy-soap"
+  },
+  {
+    "name": "Orange Grove Soap",
+    "imageSrc": "images/products/orange-grove-soap.png",
+    "imageAlt": "Orange Grove Soap bar",
+    "description": "Made with Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, and Castor Oil with Tussah Silk. Scented with Valencia Orange essential oil for a light and refreshing fragrance. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/orange-grove-soap"
+  },
+  {
+    "name": "Owl Detox Facial Soap Bar",
+    "imageSrc": "images/products/owl-detox-facial-soap-bar.jpg",
+    "imageAlt": "Owl Detox Facial Soap Bar",
+    "description": "All-natural facial soap made with Virgin Coconut Oil, Grade A Olive Oil, Tamanu Oil, and Castor Oil with Tussah Silk. Loaded with activated charcoal to help rid skin of oily build-up and toxins—helps reduce acne, pore size, and tighten skin. Scented with green, nutty, earthy blend of tea tree, lavender, and litsea cubeba. Approximately 4oz.",
+    "priceValue": "8.00",
+    "priceDisplay": "$8.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/owl-detox-facial-soap-bar"
+  },
+  {
+    "name": "Pumpkin Patch Soap",
+    "imageSrc": "images/products/pumpkin-patch-soap.jpg",
+    "imageAlt": "Pumpkin Patch Soap bar",
+    "description": "Made with lots of fresh Pumpkin Purée, Virgin Coconut Oil, Grade A Olive Oil, Organic Pumpkin Seed Oil, Kokum Butter, Shea Butter, and Castor Oil with Tussah Silk. Smells delicious—dark, creamy, rich Pumpkin spices mixed with Vanilla and honey fragrance. Topped with cute little pumpkins. Perfect fall soap! Approximately 4.8oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/pumpkin-patch-soap"
+  },
+  {
+    "name": "Relaxation Salt Bar",
+    "imageSrc": "images/products/relaxation-salt-bar.png",
+    "imageAlt": "Relaxation Salt Bar",
+    "description": "Loaded with Coconut Milk and Sea Salt, with Virgin Coconut Oil and Raw Shea Butter with Tussah Silk. Sea salt contains minerals beneficial to skin for exfoliation and detoxification. Creamy and moisturizing lather. Fragranced with spa-reminiscent scent of morning mist and lemon zest. Hefty 8oz bar.",
+    "priceValue": "7.50",
+    "priceDisplay": "$7.50",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/relaxation-salt-bar"
+  },
+  {
+    "name": "Sakura Soap",
+    "imageSrc": "images/products/sakura-soap.jpg",
+    "imageAlt": "Sakura Soap bar",
+    "description": "Made with Heavy Cream and premium oils including Virgin Coconut Oil, Grade A Olive Oil, and Illipe Butter with Tussah Silk. Reminiscent of Japanese Cherry Blossoms with notes of pink cherry blossoms, mimosa petals, vanilla, Tonka bean, and oriental woods. Approximately 5oz.",
+    "priceValue": "7.50",
+    "priceDisplay": "$7.50",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/sakura-soap"
+  },
+  {
+    "name": "Simply Aloe Soap",
+    "imageSrc": "images/products/simply-aloe-soap.png",
+    "imageAlt": "Simply Aloe Soap bar",
+    "description": "All natural soap made from Grade A Olive Oil, Coconut Oil, Fresh Aloe Vera Gel, Avocado Butter, and Castor Oil with Tussah Silk. Naturally colored with annatto seed-infused oil. Lightly scented with lemongrass, lemon, sweet orange, and cedarwood essential oils. Perfect for sun recovery. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/simply-aloe-soap"
+  },
+  {
+    "name": "Summer Watermelon Soap",
+    "imageSrc": "images/products/summer-watermelon-soap.jpg",
+    "imageAlt": "Summer Watermelon Soap bar",
+    "description": "Made with Fresh Cucumber Juice, Cocoa Butter, Coconut Oil, Mango Seed Butter, Olive Oil, Castor Oil, and Rice Bran Oil with Poppy Seeds for mild exfoliation and Tussah Silk. Gorgeous and scented with juicy, mouth-watering watermelon fragrance—watermelon, honeydew, cantaloupe, strawberries, peach, and vanilla. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/summer-cooler-watermelon-soap"
+  },
+  {
+    "name": "Sunshine Fields Soap",
+    "imageSrc": "images/products/sunshine-fields-soap.jpg",
+    "imageAlt": "Sunshine Fields Soap bar",
+    "description": "Made with Fresh Goats Milk, Grade A Olive Oil, Coconut Oil, Sunflower Seed Oil, Rice Bran Oil, Castor Oil, and Cocoa Butter with Tussah Silk. Features 3 delicate handmade sunflowers sculptured with soap dough on each bar. Scented with charming fragrance of radiant sunshine and wistful floral accords. Approximately 5oz.",
+    "priceValue": "7.50",
+    "priceDisplay": "$7.50",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/sunshine-fields-soap"
+  },
+  {
+    "name": "Sweet Thing Soap",
+    "imageSrc": "images/products/sweet-thing-soap.jpg",
+    "imageAlt": "Sweet Thing Soap bar",
+    "description": "Made with Heavy Cream, Grade A Olive Oil, Coconut Oil, Cocoa Butter, and Shea Butter with Tussah Silk. Fragranced with aromatic marshmallow root, grapefruit, creamy vanilla, tart pomegranate—a truly gorgeous lingering fragrance. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/sweet-thing-soap"
+  },
+  {
+    "name": "The Siren's Song Soap",
+    "imageSrc": "images/products/the-sirens-song-soap.jpeg",
+    "imageAlt": "The Siren's Song Soap bar",
+    "description": "Gorgeous mermaid soap made with raw honey, fresh goats milk, Tussah silk, Virgin Coconut Oil, Grade A Olive Oil, Shea Butter, Sweet Almond Oil, and Castor Oil. Leaves your skin clean, silky, and wonderfully moisturized. Scents of tropical fruit, cantaloupe, watermelon, sugarcane, lilies, and ocean breeze. Approximately 5oz.",
+    "priceValue": "8.50",
+    "priceDisplay": "$8.50",
+    "availability": "Out of Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/the-siren-s-song-soap"
+  },
+  {
+    "name": "Tranquility Soap",
+    "imageSrc": "images/products/tranquility-soap.jpg",
+    "imageAlt": "Tranquility Soap bar",
+    "description": "Made with Heavy Cream, Virgin Coconut Oil, Grade A Olive Oil, Illipe Butter, Rice Bran Oil, and Castor Oil with Tussah Silk. Designed to transport you to your zen place with a sweet mountain spring scent inspired by Appalachian streams—hemlock, magnolia, and honeysuckle. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/tranquility-soap"
+  },
+  {
+    "name": "Twigs n Berries Soap",
+    "imageSrc": "images/products/twigs-n-berries-soap.png",
+    "imageAlt": "Twigs n Berries Soap bar",
+    "description": "Wonderfully cute seasonal soap made with Virgin Coconut Oil, Grade A Olive Oil, and Tussah Silk. Scented with fruity florals of strawberries, oranges, apples, jasmine, rose geranium, and oakmoss. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/twigs-n-berries-soap"
+  },
+  {
+    "name": "West Indies Soap",
+    "imageSrc": "images/products/west-indies-soap.jpg",
+    "imageAlt": "West Indies Soap bar",
+    "description": "Made with Virgin Coconut Oil, Raw Cocoa Butter, Babassu Oil, Grade A Olive Oil, Sweet Almond Oil, Castor Oil, and Tussah Silk. Scented with an intoxicating Bay Rum fragrance—a classic scent that reminds you of island breeze, sun, and sand. Works great for both men and women. Approximately 5oz.",
+    "priceValue": "7.00",
+    "priceDisplay": "$7.00",
+    "availability": "In Stock",
+    "moreInfoUrl": "https://thesoapingowl.wixsite.com/thesoapingowl/product-page/west-indies-soap"
+  }
+]

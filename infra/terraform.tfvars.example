@@ -1,0 +1,9 @@
+domain_name      = "meilissoapstore.xyz"
+aws_region       = "us-east-1"
+s3_bucket_name   = "meilis-soap-store-web-dev"
+s3_bucket_region = "us-east-2"
+create_waf      = true
+
+tags = {
+  Environment = "dev"
+}

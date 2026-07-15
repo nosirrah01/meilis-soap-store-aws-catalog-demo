@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meili's Soap Store Catalog Demo</title>
+  <link rel="stylesheet" href="styles/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <span class="brand">Meili's Soap Store</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="products-section">
+      <h1>Product Catalog</h1>
+      <p>
+        Products are loaded from the DynamoDB-backed
+        <code>/api/products</code> endpoint.
+      </p>
+
+      <ul id="product-list" class="product-grid"></ul>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
