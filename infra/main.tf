@@ -9,6 +9,8 @@ locals {
   )
 }
 
+data "aws_caller_identity" "current" {}
+
 resource "aws_api_gateway_rest_api" "product_catalog_api" {
   provider = aws.us_east_2
 
@@ -476,7 +478,7 @@ data "aws_iam_policy_document" "bucket_policy" {
     condition {
       test     = "StringEquals"
       variable = "aws:SourceAccount"
-      values   = ["014641573446"]
+      values   = [data.aws_caller_identity.current.account_id]
     }
   }
 
